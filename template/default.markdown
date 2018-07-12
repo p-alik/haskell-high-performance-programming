@@ -23,9 +23,3 @@ $for(include-after)$
 
 $include-after$
 $endfor$
-
-$if(variable)$
-X
-$else$
-Y
-$endif$
