@@ -46,4 +46,3 @@ In both cases it should be replaced by:
         = 1 + (2 + (... + mySum [100]))
      = 1 + (2 + (... + (100 + 0)))
 
-Y
